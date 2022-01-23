@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Textarea render correct width value 1`] = `
+<DocumentFragment>
+  <div
+    class="t-textarea"
+  >
+    <textarea
+      class="t-textarea__inner"
+      style="height: auto;"
+    >
+      textarea test
+    </textarea>
+  </div>
+</DocumentFragment>
+`;
+
 exports[`base.jsx 1`] = `
 <DocumentFragment>
   <div
